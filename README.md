@@ -19,7 +19,9 @@
     * create a stripe account at[Stripe](stripe.com) and make sure to add your name at the left corner of the home page
     * Copy Api test key  from the home page and paste in shop.js located in the **controllers** folder (line number 7)
     
-    
+
+# [My version hosted by heroku](https://node-online-shop-express-peter.herokuapp.com/) 
+
     
 # [LinkedIn](https://pl.linkedin.com/in/peter-bilolo-badibake-a5bb26189)
 
