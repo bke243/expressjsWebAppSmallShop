@@ -19,7 +19,7 @@ const errorController = require('./controllers/error');
 const User = require('./models/user');
 
 
-const MONGODB_URI = `mongodb+srv://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}.mongodb.net/${process.env.MONGODB_DEFAULT_DATABASE}?retryWrites=true&w=majority`;
+const MONGODB_URI = 'add your api key';
 
 const app = express();
 const store = new MongoDbStore({

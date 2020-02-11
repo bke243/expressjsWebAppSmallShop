@@ -1,8 +1,7 @@
 {
     "env": {
-        "MONGODB_USER": "add your user name",
-        "MONGODB_PASSWORD": "add your password",
-        "MONGODB_DEFAULT_DATABAsE": "add db Name",
+        "MONGODB_URI": "add your user name",
+        "STRIPE": "",
         "STRIPE_KEY": "Add your api Key"
 
     }

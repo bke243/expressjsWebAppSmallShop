@@ -8,7 +8,7 @@ const { validationResult } = require('express-validator/check');
 
 const transporter = nodemailer.createTransport(sendgridtransport({
     auth: {
-        api_key: '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'
+        api_key: 'add your api key'
     }
 }));
 

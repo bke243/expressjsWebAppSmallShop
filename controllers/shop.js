@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const PDFDocument = require('pdfkit');
 const ITEMS_PER_PAGE = 1;
-const stripe = require('stripe')(process.env.STRIPE_KEY);
+const stripe = require('stripe')('add your api');
 
 exports.getProducts = (req, res, next) => {
     const page = +req.query.page || 1;
