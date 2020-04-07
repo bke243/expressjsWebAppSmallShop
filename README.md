@@ -20,7 +20,7 @@
     * Copy Api test key  from the home page and paste in shop.js located in the **controllers** folder (line number 7)
     
 
-# [My version hosted by heroku](https://node-online-shop-express-peter.herokuapp.com/) 
+
 
     
 # [LinkedIn](https://pl.linkedin.com/in/peter-bilolo-badibake-a5bb26189)
